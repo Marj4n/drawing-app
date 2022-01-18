@@ -98,3 +98,15 @@ main {
   font-family: 'Pacifico';
   text-align: center;
 }
+.author {
+  font-size: 1em;
+  font-family: 'Pacifico';
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  
+}
+a:hover{
+  text-decoration: underline;
+}
